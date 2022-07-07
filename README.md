@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ridered
 - 👀 I’m interested in FrontEnd.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java.
-- 
+
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
